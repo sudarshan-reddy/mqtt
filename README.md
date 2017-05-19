@@ -38,7 +38,7 @@ import (
 )
 
 const (
-	mqttURL = "mqtt://ykiyaquh:3brkxyleocTi@m10.cloudmqtt.com:14328"
+	mqttURL = "mqtt://username:hostname@host:port"
 )
 
 func main() {
